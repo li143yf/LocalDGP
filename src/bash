@@ -1,0 +1,13 @@
+./release/LocalWGVP -filename /media/jsw/graph_data/Email-Eu-Core.txt.adjlist.txt;
+./release/LocalWGVP -filename /media/jsw/graph_data/Wikipedia-Vote.txt.adjlist.txt;
+./release/LocalWGVP -filename /media/jsw/graph_data/Enron-Email.txt.adjlist.txt;
+./release/LocalWGVP -filename /media/jsw/graph_data/Slashdot-Signed-2008.txt.adjlist.txt;
+./release/LocalWGVP -filename /media/jsw/graph_data/Epinions.txt.adjlist.txt;
+./release/LocalWGVP -filename /media/jsw/graph_data/Slashdot-2009.txt.adjlist.txt;
+./release/LocalWGVP -filename /media/jsw/graph_data/Slashdot-2008.txt.adjlist.txt;
+./release/LocalWGVP -filename /media/jsw/graph_data/Stanford-Web.txt.adjlist.txt;
+./release/LocalWGVP -filename /media/jsw/graph_data/Twitter.txt.adjlist.txt;
+./release/LocalWGVP -filename /media/jsw/graph_data/Patent-Citation.txt.adjlist.txt;
+./release/LocalWGVP -filename /media/jsw/graph_data/LiveJournal.txt.adjlist.txt;
+./release/LocalWGVP -filename /media/jsw/graph_data/Hollywood.txt.adjlist.txt;
+
